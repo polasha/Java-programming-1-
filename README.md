@@ -1,6 +1,6 @@
 # Java-programming-1-
 Massive Open online Course (MOOC) organized by University of Helsinki.
-Author> Md. Surat-E-Mostafa
+
 
 
 About the course:
@@ -38,4 +38,7 @@ Part 11 	7.4.2020
 Part 12 	21.4.2020
 Part 13 	28.4.2020
 Part 14 	5.5.2020
+
+
+                           "All asignment and Excercise solved by Md. Surat-E-Mostafa"
 
