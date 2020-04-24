@@ -1,4 +1,4 @@
-# Java-programming-1-
+# Java-programming-part 1
 Massive Open online Course (MOOC) organized by University of Helsinki.
 
 
